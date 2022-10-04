@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@domoinc/base-widget": "^1.7.1",
-    "expo": "^32.0.6",
+    "expo": "^46.0.14",
     "link": "^0.1.5",
     "liquid_gauge": "^1.0.8",
     "react": "16.5.0",
